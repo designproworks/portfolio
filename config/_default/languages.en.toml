@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "JohnSilva"
+title = "John De Silva"
 
 [params]
   displayName = "English"
@@ -14,10 +14,10 @@ title = "JohnSilva"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Eloi Couderc"
-  email = "eloi.couderc@epita.fr"
+  name = "John De Silva"
+  email = "john@designproworks.com"
   image = "pp.png"
-  headline = "Engineering student at EPITA"
+  headline = "Engineering student at Designpro"
   bio = ""
   links = [ { email = "mailto:john@designproworks.com" },
      { link = "https://themes.gohugo.io/" },

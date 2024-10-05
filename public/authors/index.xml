@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on JohnSilva</title>
+    <title>Authors on John De Silva</title>
     <link>//localhost:1313/authors/</link>
-    <description>Recent content in Authors on JohnSilva</description>
+    <description>Recent content in Authors on John De Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>eloi.couderc@epita.fr (Eloi Couderc)</managingEditor>
-    <webMaster>eloi.couderc@epita.fr (Eloi Couderc)</webMaster>
-    <copyright>© 2024 Eloi Couderc</copyright>
+    <managingEditor>john@designproworks.com (John De Silva)</managingEditor>
+    <webMaster>john@designproworks.com (John De Silva)</webMaster>
+    <copyright>© 2024 John De Silva</copyright>
     <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nunocoracao</title>
       <link>//localhost:1313/authors/nunocoracao/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/authors/nunocoracao/</guid>
       <description></description>
       
@@ -24,7 +24,7 @@
       <title>Secondauthor</title>
       <link>//localhost:1313/authors/secondauthor/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/authors/secondauthor/</guid>
       <description></description>
       

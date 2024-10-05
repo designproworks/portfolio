@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documentation on JohnSilva</title>
+    <title>Documentation on John De Silva</title>
     <link>//localhost:1313/docs/</link>
-    <description>Recent content in Documentation on JohnSilva</description>
+    <description>Recent content in Documentation on John De Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>eloi.couderc@epita.fr (Eloi Couderc)</managingEditor>
-    <webMaster>eloi.couderc@epita.fr (Eloi Couderc)</webMaster>
-    <copyright>© 2024 Eloi Couderc</copyright>
+    <managingEditor>john@designproworks.com (John De Silva)</managingEditor>
+    <webMaster>john@designproworks.com (John De Silva)</webMaster>
+    <copyright>© 2024 John De Silva</copyright>
     <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Designpro</title>
       <link>//localhost:1313/docs/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/welcome/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish is packed with tons of features.
@@ -28,7 +28,7 @@
       <title>Installation</title>
       <link>//localhost:1313/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/installation/</guid>
       <description>&lt;p&gt;Simply follow the standard Hugo &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;Quick Start&lt;/a&gt; procedure to get up and running quickly.&lt;/p&gt;
 &lt;p&gt;Detailed installation instructions can be found below. Instructions for &lt;a href=&#34;#installing-updates&#34;&gt;updating the theme&lt;/a&gt; are also available.&lt;/p&gt;
@@ -52,7 +52,7 @@
       <title>Getting Started</title>
       <link>//localhost:1313/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/getting-started/</guid>
       <description>&lt;div
   
@@ -117,7 +117,7 @@
       <title>Configuration</title>
       <link>//localhost:1313/docs/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/configuration/</guid>
       <description>&lt;p&gt;Blowfish is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.&lt;/p&gt;
 &lt;p&gt;The theme ships with a default configuration that gets you up and running with a basic blog or static website.&lt;/p&gt;</description>
@@ -128,7 +128,7 @@
       <title>Homepage Layout</title>
       <link>//localhost:1313/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/homepage-layout/</guid>
       <description>&lt;p&gt;Blowfish provides a fully flexible homepage layout. There are two main templates to choose from with additional settings to adjust the design. Alternatively, you can also provide your own template and have complete control over the homepage content.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/homepage-layout/featured.svg" />
@@ -138,7 +138,7 @@
       <title>Shortcodes</title>
       <link>//localhost:1313/docs/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/shortcodes/</guid>
       <description>&lt;p&gt;In addition to all the &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34; target=&#34;_blank&#34;&gt;default Hugo shortcodes&lt;/a&gt;, Blowfish adds a few extras for additional functionality.&lt;/p&gt;
 
@@ -161,7 +161,7 @@
       <title>Front Matter</title>
       <link>//localhost:1313/docs/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/front-matter/</guid>
       <description>&lt;p&gt;In addition to the &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34; target=&#34;_blank&#34;&gt;default Hugo front matter parameters&lt;/a&gt;, Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/front-matter/featured.svg" />
@@ -171,7 +171,7 @@
       <title>Multiple Authors</title>
       <link>//localhost:1313/docs/multi-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/multi-author/</guid>
       <description>&lt;p&gt;Some websites have more than one author contributing with content and therefore require more than a single default author across the entire website. For those use-cases, Blowfish allows users to extend the list of authors using the multiple authors feature.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/multi-author/featured.svg" />
@@ -181,7 +181,7 @@
       <title>Partials</title>
       <link>//localhost:1313/docs/partials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/partials/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Analytics 
     &lt;div id=&#34;analytics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -201,7 +201,7 @@
       <title>Thumbnails</title>
       <link>//localhost:1313/docs/thumbnails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/thumbnails/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Thumbnails 
     &lt;div id=&#34;thumbnails&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -221,7 +221,7 @@
       <title>Content Examples</title>
       <link>//localhost:1313/docs/content-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/content-examples/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Blowfish. This page is designed to pull everything together and offer some worked examples that you might like to use in your Hugo project.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/content-examples/featured.svg" />
@@ -231,7 +231,7 @@
       <title>Series</title>
       <link>//localhost:1313/docs/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/series/</guid>
       <description>&lt;p&gt;Blowfish provides a feature to group a set of articles together under a &amp;ldquo;series&amp;rdquo;. Placing an article under a series will display the rest of the series articles in each single page and provide a quick way to navigate amongst them. You can see an example of this above.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/series/featured.svg" />
@@ -241,7 +241,7 @@
       <title>Advanced Customisation</title>
       <link>//localhost:1313/docs/advanced-customisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/advanced-customisation/</guid>
       <description>&lt;p&gt;There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/advanced-customisation/featured.svg" />
@@ -251,7 +251,7 @@
       <title>Hosting &amp; Deployment</title>
       <link>//localhost:1313/docs/hosting-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/hosting-deployment/</guid>
       <description>&lt;p&gt;There are many ways to deploy your Hugo website built with Blowfish. The theme is designed to be flexible in almost any deployment scenario.&lt;/p&gt;
 &lt;p&gt;Blowfish is built using relative URLs throughout the theme. This enables sites to easily be deployed to sub-folders and hosts like GitHub Pages. There&amp;rsquo;s usually no special configuration required for this to work as long as the &lt;code&gt;baseURL&lt;/code&gt; parameter has been configured in the &lt;code&gt;config.toml&lt;/code&gt; file.&lt;/p&gt;</description>
@@ -262,7 +262,7 @@
       <title>Firebase: Views &amp; Likes</title>
       <link>//localhost:1313/docs/firebase-views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/firebase-views/</guid>
       <description>&lt;p&gt;In order to be able to support dynamic data across your website we&amp;rsquo;ve added the support to integrate Firebase. This will allow you to use the views feature across lists and posts.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/firebase-views/featured.svg" />
@@ -272,7 +272,7 @@
       <title>Documenti</title>
       <link>//localhost:1313/docs/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/_index.it/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Semplice ma potente. Scopri come utilizzare Blowfish e le sue funzionalità.
@@ -286,7 +286,7 @@
       <title>文档</title>
       <link>//localhost:1313/docs/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/_index.zh-cn/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   了解如何使用简单而强大的 Blowfish。
@@ -300,7 +300,7 @@
       <title>資料</title>
       <link>//localhost:1313/docs/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/_index.ja/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   シンプル、それでいて強力。 Blowfish の利用方法と特徴について学ぶ。

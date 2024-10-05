@@ -1,6 +1,6 @@
 ---
-title: "Title Page"
-description: "Main Page of the Portfolio"
+title: "John De Silva"
+description: "Engineering student at The Designpro Group"
 ---
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
@@ -8,25 +8,27 @@ description: "Main Page of the Portfolio"
  
 # About Me
 
-Passionate about combuter since childhood, I joined [EPITA](https://epita.fr) to learn and study everything about them. 
+Passionate about engineering since childhood, I joined [Designpro](https://designproworks.com) to learn and study everything about them. 
 Here are some technologies I've been experiencing the last years:
-- Language: C, C#, C++, Python, Java, JS, bash
-- Framework: React
-- Tools: Vim, Git, Github, Gitlab, Docker
-- OS: Linux (Opensuse, Nix, Ubuntu), Windows
+- Programs: Solidworks, AutoCAD, Mastercam, Inventor, Procore, CNC Programming Machining
+- Visual studio code, Photoshop
+- Continuing Education: Website design, Internet and things-Machine Learning, Artificial Intelligence 
+- OS: Windows, Mac, Enterprise Software Database
 
 <br />
 
-I'me aslo part of the [Prologin](https://prologin.org) association, who promote computer science among young people.
-I supervise [GCC](https://girlscancode.fr) workshop in which we introduce our passion to girl, and I also help to produce the  the French National Computer Science Contest hosted by Prologin every year.
+I'm also part of the CET association, which promotes engineering science among young people.
+I supervise at [Designpro](https://designproworks.com) workshop in which we introduce our passion and goal, and I also help to produce educational content on [Designpro] You tube channel every month.
 
 
 <br /><br /><br />
 
 # Contact Me!
+- Cell: 905-399-7203
+- Email: john@designproworks.com
 
-If you want to get in touch with me, fell free to send me an e-mail, or to send me a DM through [Discord](https://discord.com/users/287981738154524673) !
+If you want to get in touch with me, fell free to send me an [E-mail](mailto:john@designproworks.com), or to send me a DM through [LinkedIn](https://linkedin.com/in/john-de-silva-a1836b1b4) !
 
 <br /><br /><br /><br />
 
-{{< github repo="osmoskour/portfolio" >}}
+{{< github repo="designproworks/portfolio" >}}

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graph on JohnSilva</title>
+    <title>Graph on John De Silva</title>
     <link>//localhost:1313/tags/graph/</link>
-    <description>Recent content in Graph on JohnSilva</description>
+    <description>Recent content in Graph on John De Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>eloi.couderc@epita.fr (Eloi Couderc)</managingEditor>
-    <webMaster>eloi.couderc@epita.fr (Eloi Couderc)</webMaster>
-    <copyright>© 2024 Eloi Couderc</copyright>
+    <managingEditor>john@designproworks.com (John De Silva)</managingEditor>
+    <webMaster>john@designproworks.com (John De Silva)</webMaster>
+    <copyright>© 2024 John De Silva</copyright>
     <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/graph/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Charts</title>
       <link>//localhost:1313/samples/charts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/samples/charts/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
       

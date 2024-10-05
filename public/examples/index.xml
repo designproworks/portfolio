@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Showcase on JohnSilva</title>
+    <title>Showcase on John De Silva</title>
     <link>//localhost:1313/examples/</link>
-    <description>Recent content in Showcase on JohnSilva</description>
+    <description>Recent content in Showcase on John De Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>eloi.couderc@epita.fr (Eloi Couderc)</managingEditor>
-    <webMaster>eloi.couderc@epita.fr (Eloi Couderc)</webMaster>
-    <copyright>© 2024 Eloi Couderc</copyright>
+    <managingEditor>john@designproworks.com (John De Silva)</managingEditor>
+    <webMaster>john@designproworks.com (John De Silva)</webMaster>
+    <copyright>© 2024 John De Silva</copyright>
     <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/examples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Showcase</title>
       <link>//localhost:1313/examples/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/examples/_index.it/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   See what&amp;rsquo;s possible with Blowfish.
@@ -29,7 +29,7 @@
       <title>Showcase</title>
       <link>//localhost:1313/examples/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/examples/_index.zh-cn/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   See what&amp;rsquo;s possible with Blowfish.
@@ -44,7 +44,7 @@
       <title>ショーケース</title>
       <link>//localhost:1313/examples/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/examples/_index.ja/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish で何が出来るか見てみる。

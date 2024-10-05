@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Config on JohnSilva</title>
+    <title>Config on John De Silva</title>
     <link>//localhost:1313/tags/config/</link>
-    <description>Recent content in Config on JohnSilva</description>
+    <description>Recent content in Config on John De Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>eloi.couderc@epita.fr (Eloi Couderc)</managingEditor>
-    <webMaster>eloi.couderc@epita.fr (Eloi Couderc)</webMaster>
-    <copyright>© 2024 Eloi Couderc</copyright>
+    <managingEditor>john@designproworks.com (John De Silva)</managingEditor>
+    <webMaster>john@designproworks.com (John De Silva)</webMaster>
+    <copyright>© 2024 John De Silva</copyright>
     <atom:link href="//localhost:1313/tags/config/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configuration</title>
       <link>//localhost:1313/docs/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/configuration/</guid>
       <description>&lt;p&gt;Blowfish is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.&lt;/p&gt;
 &lt;p&gt;The theme ships with a default configuration that gets you up and running with a basic blog or static website.&lt;/p&gt;</description>
@@ -25,7 +25,7 @@
       <title>Front Matter</title>
       <link>//localhost:1313/docs/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/front-matter/</guid>
       <description>&lt;p&gt;In addition to the &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34; target=&#34;_blank&#34;&gt;default Hugo front matter parameters&lt;/a&gt;, Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/front-matter/featured.svg" />
@@ -35,7 +35,7 @@
       <title>Multiple Authors</title>
       <link>//localhost:1313/docs/multi-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/multi-author/</guid>
       <description>&lt;p&gt;Some websites have more than one author contributing with content and therefore require more than a single default author across the entire website. For those use-cases, Blowfish allows users to extend the list of authors using the multiple authors feature.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/multi-author/featured.svg" />
@@ -45,7 +45,7 @@
       <title>Thumbnails</title>
       <link>//localhost:1313/docs/thumbnails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eloi.couderc@epita.fr (Eloi Couderc)</author>
+      <author>john@designproworks.com (John De Silva)</author>
       <guid>//localhost:1313/docs/thumbnails/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Thumbnails 
     &lt;div id=&#34;thumbnails&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
