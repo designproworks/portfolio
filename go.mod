@@ -1,4 +1,4 @@
-module github.com/designproworks/portfolio
+module github.com/osmoskour/portfolio
 
 go 1.22.6
 
